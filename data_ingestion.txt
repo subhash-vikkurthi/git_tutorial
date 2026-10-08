@@ -1,4 +1,8 @@
 Hey, i am ingesting the file.
 i am subhash_2
 i am woking on data ingestion
+<<<<<<< HEAD
 i had to ingest data
+=======
+i really like to ingest data
+>>>>>>> bugfix
