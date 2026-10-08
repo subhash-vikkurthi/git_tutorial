@@ -1,3 +1,11 @@
 I am ingesting Real-Time data.
 New File loaded
+<<<<<<< HEAD
 master here baby,let me contribute for project,bugs are fixed
+=======
+master here baby,let me contribute for project
+
+
+
+no need to fix
+>>>>>>> bugfix2
