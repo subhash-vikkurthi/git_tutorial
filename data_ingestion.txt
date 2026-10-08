@@ -4,5 +4,6 @@ i am woking on data ingestion
 i had to ingest data
 i am ingesting batch data
 
+not intrested in merging
 
 i am ingesting big data
